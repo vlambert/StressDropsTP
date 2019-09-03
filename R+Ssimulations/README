@@ -1,0 +1,18 @@
+# Data for simulations of earthquake sequences and aseismic slip with only standard R+S friction, as submitted with manuscript to JGR
+
+# "Magnitude-invariant stress drops in simulated crack-like earthquake sequences on rate-and-state faults with thermal pressurization of pore fluids"
+# Perry, Lambert and Lapusta, 2019
+
+# File formatting
+#  %%%%_%%%%_G  - contains information on breakdown energies from simulated events
+
+  Event #    |    Ga (J/m^2)   
+
+
+# %%%%_%%%%_dtau  - contains information on average stress changes from simulated events
+
+  Event #    |   average slip (m)   |  Stress Drop (spatial average) (Pa)  | Stress Drop  (energy-based) (Pa)  | average initial stress (spatial average) (Pa) | average final stress (spatial average) (Pa)
+
+# %%%%_%%%%_ruptureL  - contains information on rupture length of simulated events
+ 
+  Event #    |  rupture length (m)

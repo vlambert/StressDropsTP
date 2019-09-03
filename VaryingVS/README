@@ -1,0 +1,8 @@
+# Data for simulations of earthquake sequences and aseismic slip with thermal pressurization and different VS properties, as submitted with manuscript to JGR
+
+# "Magnitude-invariant stress drops in simulated crack-like earthquake sequences on rate-and-state faults with thermal pressurization of pore fluids"
+# Perry, Lambert and Lapusta, 2019
+
+# File formatting
+  # Event Number    |   rupture length (m)    | average slip (m)   |  Stress drop (spatial average)  (Pa)
+
